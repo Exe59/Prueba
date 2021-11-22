@@ -10,6 +10,9 @@ http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
 #EXTINF:-1,Viuda negra
 https://dl.dropboxusercontent.com/s/b6oqxueq6rujm1m/Viuda%20Negra%20%282021%29.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="John Wick  capitulo 3" tvg-logo="http://54.39.156.227:2080/images/0b1cd38e1e599945482afb7b1378a0c9.jpg" group-title="SAGAS",John Wick  capitulo 3
+http://54.39.156.227:2080/movie/novJesus/5vIhHR0V07/5513.mkv
+
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: HISTORY" tvg-logo="" group-title="Latino",LATIN: HISTORY
 http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99456
 
