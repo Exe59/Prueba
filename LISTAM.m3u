@@ -34,14 +34,17 @@ http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99482
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: SONY" tvg-logo="" group-title="Latino",LATIN: SONY
 http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99470
 
-#EXTINF:-1,Sing (2016)
-http://ultrontv.xyz:80/movie/1234/1234/76791.avi
+#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oburjHqzOrTtDLYbLunKLwUHhk1.jpg" group-title="*INFANTILES y FAMILIARES ",Coco (2017)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/169663.mp4
 
-#EXTINF:-1,Ratatouille (2007)
-http://ultrontv.xyz:80/movie/1234/1234/76786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Canta! (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQhBcb5j4LvG3dlU88Xdr78SCct.jpg" group-title="*INFANTILES y FAMILIARES ",¡Canta! (2016)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/170215.mp4
 
-#EXTINF:-1,Liar Liar (1997)
-http://ultrontv.xyz:80/movie/1234/1234/76763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | El Chavo del 8 HQ (e)(SD)" tvg-logo="http://51.222.105.31:8080/images/b114084509ee7a772257c21df8d46a23.png" group-title="24/7 - VIP (Lat)",24/7 VIP | El Chavo del 8 HQ (e)(SD)
+http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/219865.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24H-VIP | El Chavo del Ocho" tvg-logo="http://51.222.105.31:8080/images/a0103913346b074a0f6f9c42bc432427.jpg" group-title="24/7 - VIP (Lat)",24H-VIP | El Chavo del Ocho
+http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/207793.m3u8
 
 
 
