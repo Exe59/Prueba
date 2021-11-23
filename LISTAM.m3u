@@ -49,5 +49,12 @@ http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/219865.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-VIP | El Chavo del Ocho" tvg-logo="http://51.222.105.31:8080/images/a0103913346b074a0f6f9c42bc432427.jpg" group-title="24/7 - VIP (Lat)",24H-VIP | El Chavo del Ocho
 http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/207793.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Matrimonio con hijos (e)(SD)" tvg-logo="http://51.222.105.31:8080/images/c60a0953b08a88670236f22360bae0b9.png" group-title="24/7 - VIP (Lat)",24/7 VIP | Matrimonio con hijos (e)(SD)
+http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/219930.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Venom: Habrá Matanza (2021)" tvg-logo="http://51.222.105.31:8080/images/37df8c5557eb26e6ab226dc9b0dddae7.jpg" group-title="**ESTRENOS 2021**",Venom: Habrá Matanza (2021)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/219041.mp4
+
+
 
 
