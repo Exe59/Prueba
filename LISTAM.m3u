@@ -52,8 +52,40 @@ http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/207793.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Matrimonio con hijos (e)(SD)" tvg-logo="http://51.222.105.31:8080/images/c60a0953b08a88670236f22360bae0b9.png" group-title="24/7 - VIP (Lat)",24/7 VIP | Matrimonio con hijos (e)(SD)
 http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/219930.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Venom: Habrá Matanza (2021)" tvg-logo="http://51.222.105.31:8080/images/37df8c5557eb26e6ab226dc9b0dddae7.jpg" group-title="**ESTRENOS 2021**",Venom: Habrá Matanza (2021)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/219041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depredador 2 (1990)" tvg-logo="http://51.222.105.31:8080/images/6fa52b2fafa69cac792b71702b5f9924.jpg" group-title="*SAGAS*",Depredador 2 (1990)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Depredador (1987)" tvg-logo="http://51.222.105.31:8080/images/504289e85598e824f65ac1def204a68b.jpg" group-title="*SAGAS*",Depredador (1987)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211765.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Rogue One: Una historia de Star Wars (2016)," tvg-logo="http://51.222.105.31:8080/images/430c3daa1344b444cf2daaa0a72f1fc0.jpg" group-title="*SAGAS*",Rogue One: Una historia de Star Wars (2016),
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Han Solo: Una historia de Star Wars (2018)." tvg-logo="http://51.222.105.31:8080/images/5648bd8298861e7d1051be3687bb3aa9.jpg" group-title="*SAGAS*",Han Solo: Una historia de Star Wars (2018).
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: El ascenso de Skywalker (2019)." tvg-logo="http://51.222.105.31:8080/images/793c89de2d490fb1804cf3acfafec3e0.jpg" group-title="*SAGAS*",Star Wars: El ascenso de Skywalker (2019).
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213582.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 5 (2012)" tvg-logo="http://51.222.105.31:8080/images/a2704fa4cfee6b5d66e8b94ab385c22d.jpg" group-title="*SAGAS*",Solo en casa 5 (2012)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 4 (2002)" tvg-logo="http://51.222.105.31:8080/images/d4cfa56c5817c1842a2cf74cce489003.jpg" group-title="*SAGAS*",Solo en casa 4 (2002)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 3 (1997)" tvg-logo="http://51.222.105.31:8080/images/4e1cc63ea9ea4c7c30e3485fabda51e9.jpg" group-title="*SAGAS*",Solo en casa 3 (1997)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 2: Perdido en Nueva York (1992)" tvg-logo="http://51.222.105.31:8080/images/18824c30a4c9546437b1309ddebc9685.jpg" group-title="*SAGAS*",Solo en casa 2: Perdido en Nueva York (1992)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo en casa (1990)" tvg-logo="http://51.222.105.31:8080/images/b52ca7c9469b88769f04f367058df9b5.jpg" group-title="*SAGAS*",Solo en casa (1990)
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211218.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 9 (2021) 1080p" tvg-logo="http://51.222.105.31:8080/images/5dc9c0e4c527275a8e7245c186c0285c.jpg" group-title="**ESTRENOS 2021**",Fast & Furious 9 (2021) 1080p
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el reino de la calavera de cristal (2008). " tvg-logo="http://51.222.105.31:8080/images/96a0cb07188120514ba894247921ac8f.jpg" group-title="*SAGAS*",Indiana Jones y el reino de la calavera de cristal (2008). 
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y la última cruzada (1989)." tvg-logo="http://51.222.105.31:8080/images/f80837d5c6da9c3aa56b4623eebe7bbd.jpg" group-title="*SAGAS*",Indiana Jones y la última cruzada (1989).
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el templo maldito (1984)." tvg-logo="http://51.222.105.31:8080/images/56dc8b06989ce4d262bc1857567d2258.jpg" group-title="*SAGAS*",Indiana Jones y el templo maldito (1984).
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones en busca del arca perdida (1981)." tvg-logo="http://51.222.105.31:8080/images/473105ca08ed2a8f14da074b3beb2a23.jpg" group-title="*SAGAS*",Indiana Jones en busca del arca perdida (1981).
+http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213209.mkv
 
 
 
