@@ -1,91 +1,79 @@
-#EXTINF:-1,duro de matar
-http://54.39.156.227:2080/movie/novJesus22/5vIhHR0V07/2930.mkv
 
-#EXTINF:-1,Purga
-http://54.39.156.227:2080/movie/novJesus22/5vIhHR0V07/52303.mkv
+#EXTINF:-1,NAT GEO HD
+http://tvbross.com:8090/Segundo/Segundo123/340
+#EXTINF:-1,NAT GEO MUNDO
+http://tvbross.com:8090/Segundo/Segundo123/18432
+#EXTINF:-1,NAT GEO WILD
+http://tvbross.com:8090/Segundo/Segundo123/339
+#EXTINF:-1,NAT GEO WILD HD
 
-#EXTINF:-1,viuda negra
-http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
+http://tvbross.com:8090/Segundo/Segundo123/135
+#EXTINF:-1,CARTOON NETWORK HD
 
-#EXTINF:-1,Viuda negra
-https://dl.dropboxusercontent.com/s/b6oqxueq6rujm1m/Viuda%20Negra%20%282021%29.mp4
+#EXTINF:-1,DISNEY XD HD
+http://tvbross.com:8090/Segundo/Segundo123/127
 
-#EXTINF:-1 tvg-id="" tvg-name="John Wick  capitulo 3" tvg-logo="http://54.39.156.227:2080/images/0b1cd38e1e599945482afb7b1378a0c9.jpg" group-title="SAGAS",John Wick  capitulo 3
-http://54.39.156.227:2080/movie/novJesus/5vIhHR0V07/5513.mkv
+#EXTINF:-1,NATGEO KIDS HD
+http://tvbross.com:8090/Segundo/Segundo123/123
 
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: HISTORY" tvg-logo="" group-title="Latino",LATIN: HISTORY
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99456
-
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX." tvg-logo="" group-title="Latino",LATIN: FOX.
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99451
-
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: CINECANAL" tvg-logo="" group-title="Latino",LATIN: CINECANAL
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99420
-
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: DISNEY CHANNEL." tvg-logo="" group-title="Latino",LATIN: DISNEY CHANNEL.
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99435
-
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX CINEMA" tvg-logo="" group-title="Latino",LATIN: FOX CINEMA
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99445
-
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TNT" tvg-logo="" group-title="Latino",LATIN: TNT
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99478
-
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: UNIVERSAL CHANNEL" tvg-logo="" group-title="Latino",LATIN: UNIVERSAL CHANNEL
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99482
-
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: SONY" tvg-logo="" group-title="Latino",LATIN: SONY
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99470
-
-#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oburjHqzOrTtDLYbLunKLwUHhk1.jpg" group-title="*INFANTILES y FAMILIARES ",Coco (2017)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/169663.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="¡Canta! (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQhBcb5j4LvG3dlU88Xdr78SCct.jpg" group-title="*INFANTILES y FAMILIARES ",¡Canta! (2016)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/170215.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | El Chavo del 8 HQ (e)(SD)" tvg-logo="http://51.222.105.31:8080/images/b114084509ee7a772257c21df8d46a23.png" group-title="24/7 - VIP (Lat)",24/7 VIP | El Chavo del 8 HQ (e)(SD)
-http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/219865.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24H-VIP | El Chavo del Ocho" tvg-logo="http://51.222.105.31:8080/images/a0103913346b074a0f6f9c42bc432427.jpg" group-title="24/7 - VIP (Lat)",24H-VIP | El Chavo del Ocho
-http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/207793.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Matrimonio con hijos (e)(SD)" tvg-logo="http://51.222.105.31:8080/images/c60a0953b08a88670236f22360bae0b9.png" group-title="24/7 - VIP (Lat)",24/7 VIP | Matrimonio con hijos (e)(SD)
-http://51.222.105.31:8080/live/tunotahn/QtE5rpzNHgYh/219930.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Depredador 2 (1990)" tvg-logo="http://51.222.105.31:8080/images/6fa52b2fafa69cac792b71702b5f9924.jpg" group-title="*SAGAS*",Depredador 2 (1990)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Depredador (1987)" tvg-logo="http://51.222.105.31:8080/images/504289e85598e824f65ac1def204a68b.jpg" group-title="*SAGAS*",Depredador (1987)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211765.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Rogue One: Una historia de Star Wars (2016)," tvg-logo="http://51.222.105.31:8080/images/430c3daa1344b444cf2daaa0a72f1fc0.jpg" group-title="*SAGAS*",Rogue One: Una historia de Star Wars (2016),
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Han Solo: Una historia de Star Wars (2018)." tvg-logo="http://51.222.105.31:8080/images/5648bd8298861e7d1051be3687bb3aa9.jpg" group-title="*SAGAS*",Han Solo: Una historia de Star Wars (2018).
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213589.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: El ascenso de Skywalker (2019)." tvg-logo="http://51.222.105.31:8080/images/793c89de2d490fb1804cf3acfafec3e0.jpg" group-title="*SAGAS*",Star Wars: El ascenso de Skywalker (2019).
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213582.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 5 (2012)" tvg-logo="http://51.222.105.31:8080/images/a2704fa4cfee6b5d66e8b94ab385c22d.jpg" group-title="*SAGAS*",Solo en casa 5 (2012)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 4 (2002)" tvg-logo="http://51.222.105.31:8080/images/d4cfa56c5817c1842a2cf74cce489003.jpg" group-title="*SAGAS*",Solo en casa 4 (2002)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 3 (1997)" tvg-logo="http://51.222.105.31:8080/images/4e1cc63ea9ea4c7c30e3485fabda51e9.jpg" group-title="*SAGAS*",Solo en casa 3 (1997)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 2: Perdido en Nueva York (1992)" tvg-logo="http://51.222.105.31:8080/images/18824c30a4c9546437b1309ddebc9685.jpg" group-title="*SAGAS*",Solo en casa 2: Perdido en Nueva York (1992)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Solo en casa (1990)" tvg-logo="http://51.222.105.31:8080/images/b52ca7c9469b88769f04f367058df9b5.jpg" group-title="*SAGAS*",Solo en casa (1990)
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/211218.mkv
+#EXTINF:-1,A&E HD
+http://tvbross.com:8090/Segundo/Segundo123/471
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 9 (2021) 1080p" tvg-logo="http://51.222.105.31:8080/images/5dc9c0e4c527275a8e7245c186c0285c.jpg" group-title="**ESTRENOS 2021**",Fast & Furious 9 (2021) 1080p
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213205.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el reino de la calavera de cristal (2008). " tvg-logo="http://51.222.105.31:8080/images/96a0cb07188120514ba894247921ac8f.jpg" group-title="*SAGAS*",Indiana Jones y el reino de la calavera de cristal (2008). 
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213206.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y la última cruzada (1989)." tvg-logo="http://51.222.105.31:8080/images/f80837d5c6da9c3aa56b4623eebe7bbd.jpg" group-title="*SAGAS*",Indiana Jones y la última cruzada (1989).
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el templo maldito (1984)." tvg-logo="http://51.222.105.31:8080/images/56dc8b06989ce4d262bc1857567d2258.jpg" group-title="*SAGAS*",Indiana Jones y el templo maldito (1984).
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213208.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones en busca del arca perdida (1981)." tvg-logo="http://51.222.105.31:8080/images/473105ca08ed2a8f14da074b3beb2a23.jpg" group-title="*SAGAS*",Indiana Jones en busca del arca perdida (1981).
-http://51.222.105.31:8080/movie/tunotahn/QtE5rpzNHgYh/213209.mkv
+#EXTINF:-1,CINECANAL HD DUAL
+http://tvbross.com:8090/Segundo/Segundo123/465
+
+#EXTINF:-1,STAR CHANNEL HD MX
+http://tvbross.com:8090/Segundo/Segundo123/456
+
+#EXTINF:-1,STAR ACTION HD
+http://tvbross.com:8090/Segundo/Segundo123/452
+
+#EXTINF:-1,STAR COMEDY HD
+http://tvbross.com:8090/Segundo/Segundo123/450
+#EXTINF:-1,STAR CINEMA HD
+http://tvbross.com:8090/Segundo/Segundo123/449
+
+
+#EXTINF:-1,SONY
+http://tvbross.com:8090/Segundo/Segundo123/412
+#EXTINF:-1,SONY HD
+http://tvbross.com:8090/Segundo/Segundo123/411
+#EXTINF:-1,SONY FHD DUAL
+http://tvbross.com:8090/Segundo/Segundo123/410
+#EXTINF:-1,SPACE
+http://tvbross.com:8090/Segundo/Segundo123/409
+#EXTINF:-1,SPACE HD
+http://tvbross.com:8090/Segundo/Segundo123/408
+
+#EXTINF:-1,WARNER HD
+http://tvbross.com:8090/Segundo/Segundo123/15728
+#EXTINF:-1,Si Tuviera 30 (Dual-2004)
+http://tvbross.com:8090/movie/Segundo/Segundo123/2418.mkv
+
+
+#EXTINF:-1,Coco (Dual-2017)
+http://tvbross.com:8090/movie/Segundo/Segundo123/1488.mkv
+
+#EXTINF:-1,Bohemian Rhapsody (2018-Dual)
+http://tvbross.com:8090/movie/Segundo/Segundo123/1356.mp4
+
+#EXTINF:-1,Aladdín (Dual-1992)
+http://tvbross.com:8090/movie/Segundo/Segundo123/903.mkv
+
+http://tvbross.com:8090/movie/Segundo/Segundo123/901.mkv
+#EXTINF:-1,Rapidos y Furiosos - Hobbs & Shaw (Dual-2019)
+
+#EXTINF:-1,John Wick 3 (Dual-2019)
+http://tvbross.com:8090/movie/Segundo/Segundo123/691.mkv
+
+#EXTINF:-1,Depredador (1987-Dual)
+http://tvbross.com:8090/movie/Segundo/Segundo123/597.mkv
+#EXTINF:-1,Depredador 2 (1990-Dual)
+http://tvbross.com:8090/movie/Segundo/Segundo123/596.mkv
+
+#EXTINF:-1,El regalo prometido (1996-Dual)
+http://tvbross.com:8090/movie/Segundo/Segundo123/55936.mkv
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="HD",History Channel HD
