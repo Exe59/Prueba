@@ -1,71 +1,96 @@
 
-#EXTINF:-1,NAT GEO HD
-http://tvbross.com:8090/Segundo/Segundo123/340
-#EXTINF:-1,NAT GEO MUNDO
-http://tvbross.com:8090/Segundo/Segundo123/18432
-#EXTINF:-1,NAT GEO WILD
-http://tvbross.com:8090/Segundo/Segundo123/339
-#EXTINF:-1,NAT GEO WILD HD
 
-http://tvbross.com:8090/Segundo/Segundo123/135
-#EXTINF:-1,CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="HD",History Channel HD
+http://user.tvcluboficial.com/stream/nov/nov/642.m3u8
 
-#EXTINF:-1,DISNEY XD HD
-http://tvbross.com:8090/Segundo/Segundo123/127
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="HD",Discovery Channel HD
+http://user.tvcluboficial.com/stream/nov/nov/639.m3u8
 
-#EXTINF:-1,NATGEO KIDS HD
-http://tvbross.com:8090/Segundo/Segundo123/123
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="HD",Nat Geo HD
+http://user.tvcluboficial.com/stream/nov/nov/644.m3u8
 
-#EXTINF:-1,A&E HD
-http://tvbross.com:8090/Segundo/Segundo123/471
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="HD",Nat Geo Wild HD
+http://user.tvcluboficial.com/stream/nov/nov/497.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="HD",Discovery H&H HD
+http://user.tvcluboficial.com/stream/nov/nov/640.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="HD",Star HD
+http://user.tvcluboficial.com/stream/nov/nov/489.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="HD",Cinecanal HD
+http://user.tvcluboficial.com/stream/nov/nov/479.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="HD",Cinemax HD
+http://user.tvcluboficial.com/stream/nov/nov/638.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="HD",TNT HD
+http://user.tvcluboficial.com/stream/nov/nov/500.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mbMc2/7317d4746c.png" group-title="HD",Max Prime HD
+http://user.tvcluboficial.com/stream/nov/nov/730.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="HD",AXN HD
+http://user.tvcluboficial.com/stream/nov/nov/476.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="HD",Sony HD
+http://user.tvcluboficial.com/stream/nov/nov/498.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="HD",Studio Universal HD
+http://user.tvcluboficial.com/stream/nov/nov/830.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="HD",HBO HD
+http://user.tvcluboficial.com/stream/nov/nov/654.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD
+http://user.tvcluboficial.com/stream/nov/nov/732.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus HD
+http://user.tvcluboficial.com/stream/nov/nov/655.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="HD",FXM HD
+http://user.tvcluboficial.com/stream/nov/nov/488.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="HD",Space HD
+http://user.tvcluboficial.com/stream/nov/nov/499.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="HD",Disney XD HD
+http://user.tvcluboficial.com/stream/nov/nov/827.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="HD",Disney Junior HD
+http://user.tvcluboficial.com/stream/nov/nov/826.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="HD",Cartoon Network HD
+http://user.tvcluboficial.com/stream/nov/nov/637.m3u8
 
 
-#EXTINF:-1,CINECANAL HD DUAL
-http://tvbross.com:8090/Segundo/Segundo123/465
+#EXTINF:-1 tvg-logo="https://puu.sh/mbLoc/e5d45c354b.png" group-title="Deportes",UFC Network
+http://user.tvcluboficial.com/stream/nov/nov/97.m3u8
 
-#EXTINF:-1,STAR CHANNEL HD MX
-http://tvbross.com:8090/Segundo/Segundo123/456
-
-#EXTINF:-1,STAR ACTION HD
-http://tvbross.com:8090/Segundo/Segundo123/452
-
-#EXTINF:-1,STAR COMEDY HD
-http://tvbross.com:8090/Segundo/Segundo123/450
-#EXTINF:-1,STAR CINEMA HD
-http://tvbross.com:8090/Segundo/Segundo123/449
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
+http://user.tvcluboficial.com/stream/nov/nov/886.m3u8
 
 
-#EXTINF:-1,SONY
-http://tvbross.com:8090/Segundo/Segundo123/412
-#EXTINF:-1,SONY HD
-http://tvbross.com:8090/Segundo/Segundo123/411
-#EXTINF:-1,SONY FHD DUAL
-http://tvbross.com:8090/Segundo/Segundo123/410
-#EXTINF:-1,SPACE
-http://tvbross.com:8090/Segundo/Segundo123/409
-#EXTINF:-1,SPACE HD
-http://tvbross.com:8090/Segundo/Segundo123/408
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
+http://user.tvcluboficial.com/stream/nov/nov/357.m3u8
 
-#EXTINF:-1,WARNER HD
-http://tvbross.com:8090/Segundo/Segundo123/15728
-#EXTINF:-1,Si Tuviera 30 (Dual-2004)
-http://tvbross.com:8090/movie/Segundo/Segundo123/2418.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
+http://user.tvcluboficial.com/stream/nov/nov/790.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
+http://user.tvcluboficial.com/stream/nov/nov/400.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
+http://user.tvcluboficial.com/stream/nov/nov/429.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento",El Gallo Claudio 24/7
+http://user.tvcluboficial.com/stream/nov/nov/845.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
+http://user.tvcluboficial.com/stream/nov/nov/518.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5uD/7e7e1ebc1a.png" group-title="24/7",Tom y Jerry 24/7
+http://user.tvcluboficial.com/stream/nov/nov/421.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
+http://user.tvcluboficial.com/stream/nov/nov/886.m3u8
 
-
-#EXTINF:-1,Coco (Dual-2017)
-http://tvbross.com:8090/movie/Segundo/Segundo123/1488.mkv
-
-#EXTINF:-1,Bohemian Rhapsody (2018-Dual)
-http://tvbross.com:8090/movie/Segundo/Segundo123/1356.mp4
-
-#EXTINF:-1,Aladdín (Dual-1992)
-http://tvbross.com:8090/movie/Segundo/Segundo123/903.mkv
-
-http://tvbross.com:8090/movie/Segundo/Segundo123/901.mkv
-#EXTINF:-1,Rapidos y Furiosos - Hobbs & Shaw (Dual-2019)
-
-#EXTINF:-1,John Wick 3 (Dual-2019)
-http://tvbross.com:8090/movie/Segundo/Segundo123/691.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Entretenimiento",Los Años Maravillosos 24/7
+http://user.tvcluboficial.com/stream/nov/nov/810.m3u8
 
 #EXTINF:-1,Depredador (1987-Dual)
 http://tvbross.com:8090/movie/Segundo/Segundo123/597.mkv
@@ -74,20 +99,3 @@ http://tvbross.com:8090/movie/Segundo/Segundo123/596.mkv
 
 #EXTINF:-1,El regalo prometido (1996-Dual)
 http://tvbross.com:8090/movie/Segundo/Segundo123/55936.mkv
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="HD",History Channel HD
-http://user.tvcluboficial.com/stream/nov/nov/642.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="HD",Star HD
-http://user.tvcluboficial.com/stream/nov/nov/489.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="HD",Cinecanal HD
-http://user.tvcluboficial.com/stream/nov/nov/479.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
-http://user.tvcluboficial.com/stream/nov/nov/886.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
-http://user.tvcluboficial.com/stream/nov/nov/357.m3u8
